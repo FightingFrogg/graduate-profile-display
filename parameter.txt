@@ -1,0 +1,5 @@
+data.bin  trace=32  samples=64
+
+
+seismicf15_c4451_trace224_t1850-2450_1ms_601.bin
+trace=32  samples=64
